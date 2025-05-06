@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Junior Front End Web Developer** with experience in **IT support**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 **Currently a participant of ALX Front End Web Development**
 - 🔭 Working on: **Development of a secure agricultural produce inventory and forecasting system**
@@ -24,8 +24,8 @@ coming soon!!!
 
 ## Get in Touch 📬
 
-- **[LinkedIn]**(https://www.linkedin.com/in/rafiuabeebtimileyin/)
-- **[Twitter]**(https://x.com/_Wemtym)
+- **[LinkedIn]**[(https://www.linkedin.com/in/rafiuabeebtimileyin/)]
+- **[Twitter]**[(https://x.com/_Wemtym)]
 
 
 
