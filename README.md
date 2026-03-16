@@ -4,7 +4,7 @@
 
 I'm a passionate **Cybersecurity Analyst** with experience in **IT support**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 **Currently exploring in Cybersecurity, you know it's dynamic 😉**
+- 🌱 **Currently exploring Cybersecurity, you know it's dynamic 😉**
 - 🔭 Working on: **Development of a secure agricultural produce inventory and forecasting system**
 - 🌍 Languages: **English, Yoruba, Python and Javascript**
 - 📫 How to reach me: **Wemtym@gmail.com**
