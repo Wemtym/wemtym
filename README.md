@@ -2,9 +2,9 @@
 
 ## About Me 🚀
 
-I'm a passionate **Junior Front End Web Developer** with experience in **IT support**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Cybersecurity Analyst** with experience in **IT support**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 **Currently a participant of ALX Front End Web Development**
+- 🌱 **Currently exploring in Cybersecurity, you know it's dynamic 😉**
 - 🔭 Working on: **Development of a secure agricultural produce inventory and forecasting system**
 - 🌍 Languages: **English, Yoruba, Python and Javascript**
 - 📫 How to reach me: **Wemtym@gmail.com**
@@ -15,9 +15,6 @@ I'm a passionate **Junior Front End Web Developer** with experience in **IT supp
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
 
 ## Featured Projects 💻
 coming soon!!!
